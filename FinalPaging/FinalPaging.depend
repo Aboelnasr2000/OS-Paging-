@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642005085 source:c:\users\alyab\onedrive\desktop\new folder\finalpaging\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
